@@ -11,8 +11,7 @@ This user script enhances the functionality and user experience of the Agouti we
 1. **Install a User Script Manager**: Before installing the MoreAgouti script, ensure you have a user script manager installed in your web browser. Popular options include Greasemonkey for Firefox or Tampermonkey for Chrome.
 
 2. **Install MoreAgouti Script**:
-   - Click on the [`MoreAgouti.user.js`](./MoreAgouti.user.js) file in this repository.
-   - Click the "Raw" button to view the [raw script](https://raw.githubusercontent.com/Turtle6665/MoreAgouti/main/MoreAgouti.user.js).
+   - Open the [raw script](https://raw.githubusercontent.com/Turtle6665/MoreAgouti/main/MoreAgouti.user.js). (This can be also achieved by clicking on the "Raw" button in the [`MoreAgouti.user.js`](./MoreAgouti.user.js) file)
    - Your user script manager should detect the script and prompt you to install it. Follow the on-screen instructions to complete the installation.
 
 ### Usage:
@@ -23,7 +22,7 @@ This user script enhances the functionality and user experience of the Agouti we
   - Page Down: Reset brightness
   - Page Up: Reset zoom
 
-- **Remove Last Shortcut Species**: On a page where shortcut species are listed, a "Remove last shortcut Species" button will appear. Click on this button to remove the last shortcut species added. To confirm the removal, click the button again.
+- **Remove Last Shortcut Species**: On a page where shortcut species are listed, a "Remove last shortcut Species" button will appear. Click on this button to remove the last shortcut species added. To confirm the removal, click the button again. This appears to not work if you have multiple Agouti pages open at the same time.
 
 ### Contributions:
 Contributions and feedback are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
