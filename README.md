@@ -2,9 +2,9 @@
 
 This user script enhances the functionality and user experience of the Agouti web application by providing two key features:
 
-1. **Contrast, Brightness, and Zoom Adjustment**: Users can adjust the contrast, brightness, and zoom level of images on the Agouti platform using simple keyboard shortcuts. This feature enhances accessibility and customization options for users interacting with image-based content.
+1. **Contrast, Brightness, and Zoom Adjustment**: Users can adjust the contrast, brightness, and reset zoom level of images on the Agouti platform using simple keyboard shortcuts. 
 
-2. **Remove Last Shortcut Species**: The script adds a button that allows users to remove the last shortcut species added to a specific page of the Agouti web application. This feature provides users with greater control over their shortcut species list, improving workflow efficiency.
+2. **Remove Last Shortcut Species**: The script adds a button that allows users to remove the last shortcut species added to a specific page of the Agouti web application.
 
 ### How to Install:
 
